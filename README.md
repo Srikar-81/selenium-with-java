@@ -11,6 +11,8 @@
             Executing navigation commands (e.g., navigating forward, backward, and refreshing the page) and other more events.
       These are the fundamental tasks that are commonly needed when testing web applications.
 
+This project and its code are intended for educational purposes and have been committed to GitHub as part of the learning process.
+
 **Project Structure:**
 
             Accordian.java             # Interacts with and tests accordion UI elements
@@ -134,3 +136,4 @@
       Objective: A sample script combining multiple automation tasks to showcase end-to-end testing capabilities.
       
       Learning Outcome: Understand how to chain multiple Selenium actions to create a comprehensive test flow.
+ 
